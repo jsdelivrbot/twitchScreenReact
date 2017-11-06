@@ -1,0 +1,11 @@
+.search-bar{
+  margin-bottom: 30px;
+  margin-top: :50px;
+}
+li:hover{
+  background-color: #E0E0E0;
+}
+.title-list-item{
+  padding-top: 40px;
+  text-align: center;
+}
